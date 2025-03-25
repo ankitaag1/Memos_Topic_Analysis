@@ -6,6 +6,7 @@ In the file, 'Memos_Topic_Analysis.ipynb', add the name of your datafile in .csv
 The column containing the memos is named as 'content'.
 
 The code:
+
 (a) Identifies the topics presesnt in the memos through topic modeling using Latent Dirichlet Allocation (LDA) technique
 
 (b) Generate word cloud for documents belonging to each topic
