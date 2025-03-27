@@ -1,7 +1,7 @@
 # Memos topic analysis
 Code for the topic modeling analysis done on the memos containing text.
 
-In the file, 'Memos_Topic_Analysis.ipynb', add the name of your datafile in .csv format in the line: df = pd.read_csv(" ", sep=",") before running the code.
+In the file, 'Memos_Topic_Analysis.ipynb', replace the name of your datafile in .csv format in the line: df = pd.read_csv("Memos.csv", sep=",") before running the code.
 
 The column containing the memos is named as 'content'.
 
